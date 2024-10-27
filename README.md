@@ -88,4 +88,4 @@ Contributions are welcome. Please fork the repository and submit a pull request.
 
 ## License
 
-This project is licensed under the [Apache-2.0 license][https://github.com/nabayansaha/Vehicle-Detection-Tracking-and-Future-Predictions-The-Bengaluru-Mobility-Challenge/tree/main?tab=Apache-2.0-1-ov-file]
+This project is licensed under the [Apache-2.0 license](https://github.com/nabayansaha/Vehicle-Detection-Tracking-and-Future-Predictions-The-Bengaluru-Mobility-Challenge/tree/main?tab=Apache-2.0-1-ov-file)
