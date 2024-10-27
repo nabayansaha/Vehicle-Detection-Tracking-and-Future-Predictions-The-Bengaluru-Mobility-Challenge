@@ -1,4 +1,3 @@
-echo "
 # Vehicle Detection, Tracking, and Future Predictions: The Bengaluru Mobility Challenge
 
 This project is focused on addressing the traffic management problem in Bengaluru through vehicle detection, tracking, and prediction methodologies. It was developed for a hackathon co-organized by the Bengaluru Traffic Police, the Centre for Data for Public Good, and the Indian Institute of Science (IISc).
