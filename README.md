@@ -34,21 +34,21 @@ This repository includes the code and dataset preprocessing steps used to build 
 
 1. **Clone the repository:**
 
-    \`\`\`bash
+    ```sh
     git clone https://github.com/nabayansaha/Vehicle-Detection-Tracking-and-Future-Predictions-The-Bengaluru-Mobility-Challenge.git
-    \`\`\`
+    ```
 
 2. **Navigate to the project directory:**
 
-    \`\`\`bash
+    ```sh
     cd Vehicle-Detection-Tracking-and-Future-Predictions-The-Bengaluru-Mobility-Challenge
-    \`\`\`
+    ```
 
 3. **Set up the environment:**
 
-    \`\`\`bash
+    ```sh
     conda activate test_env_gpu
-    \`\`\`
+    ```
 
 ## Usage
 
@@ -61,14 +61,14 @@ For further details, refer to the scripts within each directory.
 
 ## Project Structure
 
-\`\`\`plaintext
+```plaintext
 Vehicle-Detection-Tracking-and-Future-Predictions-The-Bengaluru-Mobility-Challenge
 ├── data/                 # Dataset directory
 ├── models/               # Pre-trained and custom models
 ├── notebooks/            # Jupyter notebooks for experimentation
 ├── src/                  # Core code for detection, tracking, and prediction
 └── README.md             # Project overview and instructions
-\`\`\`
+```
 
 ## Methodology
 
@@ -88,4 +88,4 @@ Contributions are welcome. Please fork the repository and submit a pull request.
 
 ## License
 
-This project is licensed under the 
+This project is licensed under the [!Apache-2.0 license][https://github.com/nabayansaha/Vehicle-Detection-Tracking-and-Future-Predictions-The-Bengaluru-Mobility-Challenge/tree/main?tab=Apache-2.0-1-ov-file]
